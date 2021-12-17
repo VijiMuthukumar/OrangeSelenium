@@ -1,0 +1,27 @@
+2021-12-02 19:18:31,969  INFO [main] Hooks:21 - Launching chrome browser
+ 2021-12-02 19:18:36,459  INFO [main] Login_Execution:38 - Application URl is loaded
+ 2021-12-02 19:18:36,629  INFO [main] Login_Execution:56 - Passed the value of username
+ 2021-12-02 19:18:36,772  INFO [main] Login_Execution:59 - Passed the value of password
+ 2021-12-02 19:18:41,985  INFO [main] Login_Execution:78 - login button is clicked
+ 2021-12-02 19:18:42,102  INFO [main] Login_Execution:91 - User logged in successfully
+ 2021-12-02 19:18:42,186  INFO [main] Hooks:28 - close the browser
+ 2021-12-03 19:06:57,217  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:07:02,725  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:07:03,282  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:07:03,328  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:07:08,064  INFO [main] Login_cases:72 - login button is clicked
+ 2021-12-03 19:07:08,164  INFO [main] Login_cases:82 - User logged in successfully
+ 2021-12-03 19:07:08,227  INFO [main] Hooks:64 - close the browser
+ 2021-12-03 19:09:54,254  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:09:59,204  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:09:59,570  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:09:59,617  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:10:04,406  INFO [main] Login_cases:72 - login button is clicked
+ 2021-12-03 19:10:04,460  INFO [main] Login_cases:82 - User logged in successfully
+ 2021-12-03 19:10:04,524  INFO [main] Hooks:64 - close the browser
+ 2021-12-03 19:11:43,439  INFO [main] Hooks:28 - Launching chrome browser
+ 2021-12-03 19:11:48,856  INFO [main] Login_cases:34 - Application URl is loaded
+ 2021-12-03 19:11:49,228  INFO [main] Login_cases:41 - Passed the value of username
+ 2021-12-03 19:11:49,273  INFO [main] Login_cases:43 - Passed the value of password
+ 2021-12-03 19:11:49,353  INFO [main] Hooks:64 - close the browser
+ 
